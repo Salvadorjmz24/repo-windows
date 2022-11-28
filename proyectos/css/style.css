@@ -4,15 +4,59 @@ body{
 h1, h2{
     color: red;
 }
+h1{
+    padding: 50px 430px;
+    font-size: 40px;
+}
 ul, li, a{
     color: aliceblue;
-    text-decoration: underline;
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+
 }
 h3{
     color: aliceblue;
 }
 img{
-    width: 200px;
+    height: 600px;
+}
+
+.carrousel{
+    width:200%;
+    max-width: 120em;
+}
+.carrousel .grande{
+    width: 150%;
+    display: flex;
+    flex-flow: row nowrap ;
+    justify-content: space-between;
+    align-items: center;
+    transition: all .65s ease ;
+    transform: translateX(-90%);
+}
+.carrousel .img{
+    padding: 0 .6em;
+    width: calc( 72.5% / 7px - .5em);
+    min-height: 5vh;
+    background-color: black;
+}
+.carrousel .puntos{
+    width: 100%;
+    padding: 1em;
+    margin: 0 0 0;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.carrousel .punto{
+    background-color:rgb(245, 16, 123);
+    width: 6em;
+    height: 2em;
+    margin: 2em 2em 0;
+    border-radius:15px 15px;
+}
+.carrousel .punto.activo{
+    background-color: rgb(245, 16, 123);
 }
