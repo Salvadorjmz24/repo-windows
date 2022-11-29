@@ -1,62 +1,36 @@
-body{
-    background-color: black;
+*{
+    box-sizing: border-box;
 }
-h1, h2{
-    color: red;
-}
-h1{
-    padding: 50px 430px;
-    font-size: 40px;
-}
-ul, li, a{
-    color: aliceblue;
-    font-size: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    align-items: center;
-
-}
-h3{
-    color: aliceblue;
-}
-img{
-    height: 600px;
+body {
+font-family: var(--bs-body-font-family);
+font-size: var(--bs-body-font-size);
+font-weight: var(--bs-body-font-weight);
+line-height: var(--bs-body-line-height);
+color: var(--bs-body-color);
+text-align: var(--bs-body-text-align);
+background-color: var(--bs-body-bg);
+-webkit-text-size-adjust: 100%;
+-webkit-tap-highlight-color: transparent;
+background-color: rgb(0, 0, 0);
 }
 
-.carrousel{
-    width:200%;
-    max-width: 120em;
+
+.container-fluid{
+    background-color: #000000;
 }
-.carrousel .grande{
-    width: 150%;
-    display: flex;
-    flex-flow: row nowrap ;
-    justify-content: space-between;
-    align-items: center;
-    transition: all .65s ease ;
-    transform: translateX(-90%);
+h2, h1{
+    color: #ff1744 ; 
+    font-size: calc(.270rem + 2.6vw);
+    font-family: cursive;
 }
-.carrousel .img{
-    padding: 0 .6em;
-    width: calc( 72.5% / 7px - .5em);
-    min-height: 5vh;
-    background-color: black;
+
+h3, li,ul, div{
+    color: #6cee44;
 }
-.carrousel .puntos{
-    width: 100%;
-    padding: 1em;
-    margin: 0 0 0;
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: center;
-    align-items: center;
+footer{
+    background-color: #212121 ;
+    padding: 18px;
 }
-.carrousel .punto{
-    background-color:rgb(245, 16, 123);
-    width: 6em;
-    height: 2em;
-    margin: 2em 2em 0;
-    border-radius:15px 15px;
-}
-.carrousel .punto.activo{
-    background-color: rgb(245, 16, 123);
+nav{
+    color: aliceblue;
 }
