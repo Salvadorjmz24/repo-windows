@@ -34,4 +34,6 @@ footer{
 nav{
     color: aliceblue;
 }
-
+li{
+    list-style: none;
+}
