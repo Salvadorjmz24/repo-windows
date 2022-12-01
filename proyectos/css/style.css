@@ -22,10 +22,9 @@ h2, h3{
     color: #ff1744 ; 
     font-size: calc(.270rem + 2.6vw);
     font-family: cursive;
-    margin 10px
 }
 
-li,ul, div{
+h4,li,ul, div{
     color: #76ff03 ;
 }
 footer{
