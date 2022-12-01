@@ -26,6 +26,7 @@ h2{
 
 h3, li,ul, div{
     color: #76ff03 ;
+    margin: 5px;
 }
 footer{
     background-color: #212121 ;
