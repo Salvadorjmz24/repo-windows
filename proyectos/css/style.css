@@ -18,14 +18,19 @@ margin: 5px;
 }
 h3, h4{
     color: #76ff03 ; 
-    font-size: calc(.272rem + 2.3vw);
+    font-size: calc(.272rem + 2vw);
     font-style: oblique;
     font-family: fantasy;
 }
 main{
     align-items: center;
 }
-
+.recomendaciones{
+    text-align: center;
+}
+.reco{
+    align-items: center;
+}
 li,ul, div{
     color: #c6ff00;
 }
