@@ -25,12 +25,7 @@ h3, h4{
 main{
     align-items: center;
 }
-.recomendaciones{
-    text-align: center;
-}
-.reco{
-    align-items: center;
-}
+
 li,ul, div{
     color: #c6ff00;
 }
