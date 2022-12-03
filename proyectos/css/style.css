@@ -40,6 +40,8 @@ li{
   margin: 10px;
 }
 footer{
-    background-color: aliceblue;
+    background-color: transparent; 
+    text-align: center;   
 }
+
 
