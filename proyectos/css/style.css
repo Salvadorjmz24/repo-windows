@@ -13,8 +13,10 @@ margin: 5px;
 }
 .h1{
     text-align: center;
+    color:rgb(236, 37, 203);
+    font-family: cursive;
 }
-h2, h3, h4{
+h3, h4{
     color: #76ff03 ; 
     font-size: calc(.272rem + 2.8vw);
     font-style: oblique;
