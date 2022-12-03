@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-background-color: #000000;
+background-color: #0e0c0c;
 margin: 5px;
 }
 .container-fluid{
@@ -18,7 +18,7 @@ margin: 5px;
 }
 h3, h4{
     color: #76ff03 ; 
-    font-size: calc(.272rem + 1.7vw);
+    font-size: calc(.272rem + 2.3vw);
     font-style: oblique;
     font-family: cursive;
 }
