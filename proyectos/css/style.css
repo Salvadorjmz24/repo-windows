@@ -18,7 +18,7 @@ margin: 5px;
 }
 h3, h4{
     color: #e91e63 ; 
-    font-size: calc(.272rem + 2vw);
+    font-size: calc(.272rem + 2.5vw);
     font-style: oblique;
     font-family: fantasy;
 }
