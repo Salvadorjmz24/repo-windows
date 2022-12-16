@@ -5,7 +5,7 @@
 }
 
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:cursive;
 }
 
 .contenedor{
@@ -17,7 +17,7 @@ body{
 }
 header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(199, 29, 111, 0.507) 0%, rgba(208, 150, 147, 0.491) 100%), url(../img/WhatsApp\ Image\ 2022-12-14\ at\ 1.46.01\ PM.jpeg) ;
+    background-image: linear-gradient(to top, rgba(201, 76, 137, 0.468) 0%, rgba(208, 150, 147, 0.4) 100%), url(../img/WhatsApp\ Image\ 2022-12-14\ at\ 1.46.01\ PM.jpeg) ;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
