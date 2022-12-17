@@ -42,7 +42,7 @@ header{
     position: fixed;
     top: 30px;
     right: 30px;
-    background: #ffff;
+    background: rgb(6, 236, 10);
     width: 40px;
     height: 40px;
     cursor: pointer;
@@ -55,7 +55,7 @@ header{
     right: 0;
     width: 30vw;
     height: 100%;
-    background-image: linear-gradient(-225deg, rgba(143, 73, 224, 0.471) 0%, #886AEA 53%, #6457C6 100%);
+    background-image: linear-gradient(-225deg, rgba(143, 73, 224, 0.343) 0%, #886aeabf 53%, #6457c6b9 100%);
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
