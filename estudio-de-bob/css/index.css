@@ -6,6 +6,11 @@
 
 body{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: black;
+    color: #fff;
+}
+.burger{
+    color: #fff;
 }
 
 .contenedor{
@@ -80,7 +85,7 @@ header{
 .subtitulo{
     text-align: center;
     font-weight: 300;
-    color: rgba(199, 29, 111, 0.507);
+    color: rgba(159, 23, 213, 0.919);
     margin-bottom: 40px;
     font-size: 40px;
 }
@@ -119,7 +124,7 @@ header{
 }
 
 .gallery{
-    background: #f2f2f2;
+    background-image: linear-gradient(to top, #cd9cf2 0%, #3c0ad049 100%);
 }
 .contenedor-galeria{
     display: flex;
@@ -171,7 +176,7 @@ header{
 }
 
 footer{
-    background: #9f8ad0;
+    background-image: linear-gradient(to top, #cd9cf2 0%, #3c0ad049 100%);
     padding-bottom: 0.2px;
 }
 .footer-content{
@@ -226,9 +231,9 @@ footer{
     background: #f2f2f2;
     margin-bottom: 60px;
 }
-@media screen  and (max-width:1200px){
+@media screen  and (max-width:1400px){
     .brand{
-        width: 15vw;
+        width: 200px;
     }
 }
 @media screen and (max-width:800px){
@@ -272,7 +277,7 @@ footer{
         margin-bottom: 40px;
     }
     .brand{
-        width:100%;
+        width:40%;
         padding: 0;
     }
 }
@@ -310,6 +315,6 @@ footer{
         width:95px;
     }
     .brand{
-        width: 32vw;
+        width: 25vw;
     }
 }
