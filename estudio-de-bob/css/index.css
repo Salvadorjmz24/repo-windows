@@ -21,8 +21,9 @@ body{
     padding: 60px 0;
 }
 header{
-    height: 100vh;
-    background-image:url(../img/bobtatuando\ \(1\).jpg) ;
+    height: 800px;
+    width: auto;
+    background-image:url(../img/bobtatuando.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
