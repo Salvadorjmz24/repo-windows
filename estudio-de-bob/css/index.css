@@ -22,7 +22,7 @@ body{
 }
 header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(201, 76, 137, 0.468) 0%, rgba(208, 150, 147, 0.4) 100%), url(../img/equipo4.jpeg) ;
+    background-image: linear-gradient(to top, rgba(201, 76, 137, 0.468) 0%, rgba(208, 150, 147, 0.4) 300%), url(../img/equipo4.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
