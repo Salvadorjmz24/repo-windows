@@ -118,7 +118,7 @@ header{
 }
 .number{
     display: inline-block;
-    background-image: linear-gradient(to top, rgba(25, 21, 214, 0.912) 0%, #dd083ae9 100%);
+    background-image: linear-gradient(to right, #d7d2cc8e 0%, #304352 100%);
     width: 30px;
     height: 30px;
     color: #ffff;
@@ -127,13 +127,6 @@ header{
     font-weight: 700;
     line-height: 30px;
     margin-right: 5px;
-}
-.equipo{
-    text-align: center;
-    font-weight: 300;
-    color: rgba(159, 23, 213, 0.919);
-    margin-bottom: 40px;
-    font-size: 40px;
 }
 .gallery{
     background-image: linear-gradient(to top, rgba(143, 73, 224, 0.343) 0%, #471dc349 100%);
