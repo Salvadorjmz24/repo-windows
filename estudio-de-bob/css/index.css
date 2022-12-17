@@ -21,8 +21,8 @@ body{
     padding: 60px 0;
 }
 header{
-    height: 500px;
-    background-image: linear-gradient(50deg, #2af59a2b 0%, #009cfd17 50%), url(../img/cartuchos.jpeg);
+    height: 100vh;
+    background-image: linear-gradient(180deg, #2af598 0%, #009cfd17 100%), url(../img/cartuchos.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
