@@ -22,7 +22,7 @@ body{
 }
 header{
     height: 100vh;
-    background-image: linear-gradient(to right, rgba(67, 67, 67, 0.308) 0%, rgba(0, 0, 0, 0.364) 100%),url(../img/WhatsApp\ Image\ 2022-12-17\ at\ 7.14.33\ AM\ \(1\).jpeg);
+    background-image: linear-gradient(to right, rgba(67, 67, 67, 0.308) 0%, rgba(0, 0, 0, 0.364) 100%),url("../img/WhatsApp\ Image\ 2022-12-17\ at\ 7.14.33\ AM\ \(1\).jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
