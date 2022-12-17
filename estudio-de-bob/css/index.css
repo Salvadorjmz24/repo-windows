@@ -20,6 +20,14 @@ body{
     margin: auto;
     padding: 60px 0;
 }
+header{
+    height: 100vh;
+    background-image:url(../img/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
 .head{
     text-align: center;
     padding: 0;
@@ -274,14 +282,6 @@ footer{
     }
 }
 @media screen and (max-width:500px){
-    header{
-        height: 100vh;
-        background-image: linear-gradient(to top, rgba(201, 76, 136, 0.306) 100%, rgba(208, 150, 147, 0.4) ), url(../img/logo.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-attachment: fixed;
-        background-position: center;
-    }
     .menu-navegacion{
         width: 50vw;
     }
