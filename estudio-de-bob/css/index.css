@@ -283,7 +283,7 @@ footer{
 }
 @media screen and (max-width:500px){
     .menu-navegacion{
-        width: 65vw;
+        width: 50vw;
     }
     .hamburgesa{
         top: 20px;
