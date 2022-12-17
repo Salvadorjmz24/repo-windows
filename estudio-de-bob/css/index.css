@@ -22,7 +22,7 @@ body{
 }
 header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(201, 76, 137, 0.468) 0%, rgba(208, 150, 147, 0.4) 100%), url(../img/WhatsApp\ Image\ 2022-12-14\ at\ 1.46.01\ PM.jpeg) ;
+    background-image: linear-gradient(to top, rgba(201, 76, 137, 0.468) 0%, rgba(208, 150, 147, 0.4) 100%), url(../img/bobtatuando\ \(1\).jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -55,7 +55,7 @@ header{
     right: 0;
     width: 30vw;
     height: 100%;
-    background-image: linear-gradient(-225deg, rgba(143, 73, 224, 0.343) 0%, #886aeabf 53%, #6457c6b9 100%);
+    background-image: linear-gradient(-225deg, rgba(143, 73, 224, 0.343) 0%, #886aeabf 53%, rgba(143, 73, 224, 0.343) 100%);
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -123,7 +123,7 @@ header{
 }
 
 .gallery{
-    background-image: linear-gradient(to top, #cd9cf2 0%, #3c0ad049 100%);
+    background-image: linear-gradient(to top, rgba(143, 73, 224, 0.343) 0%, #5a37c349 100%);
 }
 .contenedor-galeria{
     display: flex;
@@ -175,7 +175,7 @@ header{
 }
 
 footer{
-    background-image: linear-gradient(to top, #cd9cf2 0%, #3c0ad049 100%);
+    background-image: linear-gradient(to top,rgba(143, 73, 224, 0.343) 0%, #3c0ad049 100%);
     padding-bottom: 0.2px;
 }
 .footer-content{
