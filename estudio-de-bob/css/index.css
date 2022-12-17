@@ -21,13 +21,12 @@ body{
     padding: 60px 0;
 }
 header{
-    height: 40vw;
-    background-image:url(../img/bobtatuando.jpg) ;
+    height: 100vh;
+    background-image:url(../img/bx-x.svg) ;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-
 }
 .head{
     text-align: center;
