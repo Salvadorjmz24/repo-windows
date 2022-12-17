@@ -22,7 +22,7 @@ body{
 }
 header{
     height: 100vh;
-    background-image:url(../img/bx-x.svg) ;
+    background-image: linear-gradient(to top, rgba(201, 76, 137, 0.468) 0%, rgba(208, 150, 147, 0.4) 100%), url(../img/bobtatuando.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -123,7 +123,7 @@ header{
 }
 
 .gallery{
-    background-image: linear-gradient(to top, rgba(143, 73, 224, 0.343) 0%, #5a37c349 100%);
+    background-image: linear-gradient(to top, rgba(143, 73, 224, 0.343) 0%, #471dc349 100%);
 }
 .contenedor-galeria{
     display: flex;
@@ -236,7 +236,6 @@ footer{
     }
 }
 @media screen and (max-width:800px){
-
     .menu-navegacion{
         width: 40vw;
     }
