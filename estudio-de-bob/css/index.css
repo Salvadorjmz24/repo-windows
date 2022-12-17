@@ -7,6 +7,7 @@
 body{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background: black;
+    background-image: linear-gradient(to right, rgba(143, 73, 224, 0.343) 0%, rgba(0, 0, 0, 0) 100%);
     color: #fff;
 }
 .burger{
@@ -129,7 +130,7 @@ header{
     margin-right: 5px;
 }
 .gallery{
-    background-image: linear-gradient(to top, rgba(143, 73, 224, 0.343) 0%, #471dc349 100%);
+    background-image: linear-gradient(to right, rgba(28, 2, 58, 0.416) 0%, rgba(0, 0, 0, 0) 100%);
 }
 .contenedor-galeria{
     display: flex;
@@ -182,7 +183,7 @@ header{
 }
 
 footer{
-    background-image: linear-gradient(to top,rgba(143, 73, 224, 0.343) 0%, #3c0ad049 100%);
+    background-image: linear-gradient(to top,rgba(7, 1, 13, 0.866) 0%, #4015c3b3 100%);
     padding-bottom: 0.2px;
 }
 .footer-content{
