@@ -21,7 +21,7 @@ body{
     padding: 60px 0;
 }
 header{
-    height: 80vw;
+    height: 100vh;
     background-image: linear-gradient(to top, rgba(201, 76, 137, 0.468) 0%, rgba(208, 150, 147, 0.4) ), url(../img/equipo4.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -281,6 +281,9 @@ footer{
     }
 }
 @media screen and (max-width:500px){
+    .header{
+        height: 100%;
+    }
     .menu-navegacion{
         width: 50vw;
     }
