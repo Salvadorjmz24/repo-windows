@@ -190,7 +190,7 @@ header{
 
 footer{
     background-image: linear-gradient(to top,rgba(7, 1, 13, 0.866) 0%, #4015c3b3 100%);
-    padding-bottom: 0.2∫px;
+    padding-bottom: 0.2px;
 }
 .footer-content{
     display: flex;
