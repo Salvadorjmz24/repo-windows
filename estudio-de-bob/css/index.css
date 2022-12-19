@@ -244,6 +244,11 @@ footer{
     background: #f2f2f2;
     margin-bottom: 60px;
 }
+@media screen  and (max-width:1800px){
+    .brand{
+        width: 200px;
+    }
+}
 @media screen  and (max-width:1400px){
     .brand{
         width: 200px;
