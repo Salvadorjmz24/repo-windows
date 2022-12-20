@@ -36,14 +36,11 @@ body{
 header{
     height: 100vh;
     width: 100%;
-    overflow: hidden;
-    position: relative;
     background-image:url("../img/estudio.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    text-align: center;
-    justify-content: center;
+    background-position: center;
 }
 .head{
     text-align: center;
