@@ -34,8 +34,8 @@ body{
     padding: 60px 0;
 }
 header{
-    width: 100vw;
-    height: 100vh;
+    height: 670px;
+    width: auto;
     background-image:url("../img/estudio.png");
     background-repeat: no-repeat;
     background-size: cover;
