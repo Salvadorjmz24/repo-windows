@@ -148,8 +148,9 @@ header{
     width: 28%;
     height: 400px;
     display: block;
+    border-radius: 12px;
     margin-bottom: 15px;
-    box-shadow: 0 0 6px rgba(0, 0, 0, rgba(0, 0, 0, 0.5));
+    box-shadow: 0 0 6px rgba(255, 251, 251, 0.6);
     cursor: pointer;
 }
 .imagen-ligth{
@@ -206,11 +207,11 @@ footer{
     color: #ffff;
 }
 .brand{
-    font-weight: 500;
-    font-size: 40px;
+    font-weight: 300;
+    font-size: 30px;
 }
 .brand+p{
-    font-weight: 500;
+    font-weight: 300;
 }
 .social-media{
     width: 50%;
@@ -246,7 +247,7 @@ footer{
 }
 @media screen  and (max-width:1800px){
     .brand{
-        width: 200px;
+        width: 185px;
     }
 }
 @media screen  and (max-width:1400px){
