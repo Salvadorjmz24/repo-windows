@@ -109,7 +109,7 @@ header{
     flex-wrap: wrap;
 }
 .contenedor-servicio img{
-    box-shadow: 0 0 8px rgba(169, 52, 132, 0.442);
+    box-shadow: 0 0 12px rgba(169, 52, 132, 0.442);
     width: 40%;
 }
 .checklist-servicio{
